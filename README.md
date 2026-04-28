@@ -5,6 +5,7 @@ Coaching management system via Lynk.coach
 **AI-powered coaching management platform for sports academies, fitness studios, and extracurricular activity centers in India.**
 
 🌐 [lynk.coach](https://www.lynk.coach)
+🌐 [lynk.coach](https://discover.lyfskills.com)
 
 ---
 
@@ -50,6 +51,9 @@ Parents in India live on WhatsApp. Lynk Coach sends schedule changes, fee remind
 
 ### 📊 Analytics & Business Intelligence
 Which sport has the highest retention? Which time slots are underutilized? Where are fee leakages? Which coaches drive the best outcomes? Actionable alerts, not just dashboards.
+
+### 📈 Discovery based growth
+discover.lyfskills.com based listings help the lynk.coach academies get featured and drive interest,prospecting and growth
 
 ## Who It's For
 
